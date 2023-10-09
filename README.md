@@ -4,9 +4,13 @@
 </em></p>
 
 
-[![Linkedin: vaibhav](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)link=https://www.linkedin.com/in/vaibhav-nimkar-a96754210/)](https://www.linkedin.com/in/vaibhav-nimkar-a96754210/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/vaibhav-nimkar-a96754210/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-Green-008000" alt="Smart India Hackathon">
+</div>
 
-[![Smart India Hackthon](https://img.shields.io/badge/Smart%20India%20Hackathon-Green-008000)
 
 
 
