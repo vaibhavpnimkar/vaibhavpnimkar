@@ -25,7 +25,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx vaibhav
+npx vaibhv
 ```
 
 
