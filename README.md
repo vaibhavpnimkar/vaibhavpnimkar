@@ -57,7 +57,7 @@ const vaibhav = {
 
 > 📦 182.8 kB Used in GitHub's Storage 
 
-> 🏆 60 Contributions in the Year 2023
+> 🏆 100+ Contributions in the Year 2023
  
 > 👋 Open for job opportunities in Software Development.
  
