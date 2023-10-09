@@ -37,11 +37,11 @@ const vaibhav = {
     code: ["Javascript", "Typescript", "Java", "CPP"],
     askMeAbout: ["web dev", "tech", "app dev", "music"],
     technologies: {
+            frontEnd: ["React", "HTML", "CSS"],
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node", "Express"],
         },
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["mongo", ],
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "To get a job",
@@ -56,16 +56,22 @@ const vaibhav = {
 **🐱 My GitHub Data** 
 
 > 📦 182.8 kB Used in GitHub's Storage 
- > 
-> 🏆 96 Contributions in the Year 2023
- > 
+
+> 🏆 60 Contributions in the Year 2023
+ 
 > 👋 Open for job opportunities in Software Development.
  
-> 📜 21 Public Repositories 
+> 📜 20 Public Repositories 
 
-> 🔑 23 Private Repositories 
- > 
-[![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavpnimkar)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=vaibhavpnimkar" alt="Vaibhav's GitHub stats">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavpnimkar" alt="Top Langs">
+  </a>
+</div>
 
 
 
