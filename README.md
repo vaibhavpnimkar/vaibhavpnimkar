@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <img src="https://img.shields.io/badge/Hacksquad-2023-ff69b4" alt="Hacksquad">
-  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-Green-008000" alt="Smart India Hackathon">
+  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-2023-008000" alt="Smart India Hackathon">
 </div>
 
 
