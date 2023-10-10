@@ -1,3 +1,6 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavpnimkar)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Vaibhav Pravin Nimkar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>MERN STACK DEVELOPER <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -72,7 +75,7 @@ const vaibhav = {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavpnimkar" alt="Top Langs">
   </a>
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/vaibhavpnimkarryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
