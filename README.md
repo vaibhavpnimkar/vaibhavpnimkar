@@ -30,7 +30,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```bash
 npx vaibhv
 ```
-
+In case **npx vaibhv** does not work try running **npm i vaibhv** then **npx vaibhv** again.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
