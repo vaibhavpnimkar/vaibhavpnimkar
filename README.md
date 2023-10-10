@@ -58,7 +58,6 @@ const vaibhav = {
 
 **🐱 My GitHub Data** 
 
-> 📦 182.8 kB Used in GitHub's Storage 
 
 > 🏆 100+ Contributions in the Year 2023
  
