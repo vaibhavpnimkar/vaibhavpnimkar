@@ -38,13 +38,13 @@ In case **npx vaibhv** does not work try running **npm i vaibhv** then **npx vai
 const vaibhav = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Java", "CPP"],
-    askMeAbout: ["web dev", "tech", "app dev", "music"],
+    askMeAbout: ["web dev", "tech", "app dev",music],
     technologies: {
-            frontEnd: ["React", "HTML", "CSS"],
+            frontEnd: ["React", "HTML", "CSS",Redux],
         backEnd: {
             js: ["Node", "Express"],
         },
-        databases: ["mongo", ],
+        databases: ["mongo" ],
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "To get a job",
