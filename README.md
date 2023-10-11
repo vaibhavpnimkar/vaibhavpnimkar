@@ -40,7 +40,7 @@ const vaibhav = {
     code: ["Javascript", "Typescript", "Java", "CPP"],
     askMeAbout: ["web dev", "tech", "app dev",music],
     technologies: {
-            frontEnd: ["React", "HTML", "CSS",Redux],
+            frontEnd: ["React", "HTML", "CSS","Redux"],
         backEnd: {
             js: ["Node", "Express"],
         },
