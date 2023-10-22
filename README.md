@@ -77,7 +77,7 @@ const vaibhav = {
   </a>
 </div>
 
-[![An image of @vaibhavpnimkar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhavpnimkar)](https://holopin.io/@vaibhavpnimkar)
+
 
 
 
